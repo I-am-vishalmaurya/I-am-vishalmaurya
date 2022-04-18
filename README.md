@@ -25,7 +25,7 @@ I-am-vishalmaurya@github
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal, lofi, jazz and soft music
 ```
-
+<hr>
 
 
 ## 🛠️ My Favorite Tools
