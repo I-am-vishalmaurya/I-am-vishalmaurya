@@ -1,8 +1,19 @@
 ## GitHub Stats
 
-|                                                                                                           |                                                                                      |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en) | ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&) |
+
+|                                                                   Vishal's Stats                                                                    |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=redical&hide_border=true&area=true) |
+|            ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=radical)            | centered |
+|                   ![Vishal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=radical)                   | 
+    
+
+|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=radical&layout=compact) |
+
+
+
 
 <table style="border: none">
   <tr>
@@ -26,4 +37,3 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
   </tr>
 </table>
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-vishalmaurya&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
