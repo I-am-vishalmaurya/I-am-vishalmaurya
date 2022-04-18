@@ -13,21 +13,17 @@ Hi, I'm Vishal Maurya!
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```
-trykatchup@github
+I-am-vishalmaurya@github
 -------------------------
-🏫 MsC Computer engineering student @Unibo
-🔎 Main interests in AI & Cybersec
-🔭 Working on Deep Learning based cybersecurity solutions
+🏫 BsC Computer Science student @Mumbai University
+🔎 Main interests in AI & Software Development
+🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, C/C++, Java 
-🏴‍☠️ Currently involved in CTF competitions and sysadmin tasks
-🚩 Interested in network security and web security
-💖 In a complicated relationship with Suricata IDS
-🖌️ Love drawing portraits and cute stuff, cycling, going to concerts
-🎵 Love metal, rock, jazz and blues
-⚡ Love ketchup (but not on pasta or pizza) 🍅
-💻 Total commits: 5797
-⭐ Total start gained: 145
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+💖 In a complicated relationship with Neural Networks
+🎵 Love metal, lofi, jazz and soft music
+
 ```
 
 
