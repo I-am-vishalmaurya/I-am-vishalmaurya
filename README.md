@@ -19,7 +19,8 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 
 ## It's not perfect, isn't it?
 
-**For me, improvements are improvements.** So, if you have any ideas or suggestions for how to improve this, please submit a pull request or open an issue.
+**For me, improvements are improvements.** “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+– Elon Musk
 
   </td>
   </tr>
